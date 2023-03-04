@@ -5,4 +5,5 @@ evilarc lets you create a zip file that contains files with directory traversal 
 
 
 test.py -d 6 -o win test.hta
+
 copy /b 1.zip + 2.zip 3.zip
